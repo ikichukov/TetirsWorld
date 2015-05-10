@@ -69,6 +69,7 @@ namespace WindowsFormsApplication2
             animation.timer1.Stop();
             game.timer1.Stop();
             game.timer2.Stop();
+            timer1.Stop();
         }
 
         private void timer1_Tick(object sender, EventArgs e)

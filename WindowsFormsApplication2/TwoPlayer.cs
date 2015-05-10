@@ -18,8 +18,6 @@ namespace WindowsFormsApplication2
         public TwoPlayer()
         {
             InitializeComponent();
-            //timer1.Interval = pl2Game.speed;
-            //timer1.Start();
             this.DoubleBuffered = true;
             StartGame();
             animation = new CloudsAnimation(this.CreateGraphics(), Properties.Resources.cloudsBig);
@@ -38,7 +36,6 @@ namespace WindowsFormsApplication2
             (labelsx[2] = labelPoints).Text = "0000";
             pl1Game = new Game(pictureBox1, pictureBox3, labelsx);
             timer2.Start();
-            //timer1.Start();
         }
         protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
         {

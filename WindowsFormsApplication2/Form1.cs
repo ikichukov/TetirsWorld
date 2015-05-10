@@ -12,13 +12,9 @@ namespace WindowsFormsApplication2
 {
     public partial class Form1 : Form
     {
-        public CloudsAnimation animation;
         public Form1()
         {
             InitializeComponent();
-            animation = new CloudsAnimation(this.CreateGraphics(), Properties.Resources.clouds);
-            this.DoubleBuffered = true;
-
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -42,11 +38,6 @@ namespace WindowsFormsApplication2
         {
             CustomMode cm = new CustomMode();
             cm.ShowDialog();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -99,13 +99,7 @@ namespace WindowsFormsApplication2
             animation.timer1.Stop();
             game.timer1.Stop();
             game.timer2.Stop();
-        }
-
-        private void CustomMode_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            animation.timer1.Stop();
-            game.timer1.Stop();
-            game.timer2.Stop();
+            timer1.Stop();
         }
     }
 }

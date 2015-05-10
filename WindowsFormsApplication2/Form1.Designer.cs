@@ -36,9 +36,9 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(132, 94);
+            this.button1.Location = new System.Drawing.Point(453, 398);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(91, 23);
+            this.button1.Size = new System.Drawing.Size(91, 41);
             this.button1.TabIndex = 0;
             this.button1.Text = "SinglePlayer";
             this.button1.UseVisualStyleBackColor = true;
@@ -46,9 +46,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(132, 141);
+            this.button2.Location = new System.Drawing.Point(453, 445);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(91, 23);
+            this.button2.Size = new System.Drawing.Size(91, 41);
             this.button2.TabIndex = 1;
             this.button2.Text = "TwoPlayer";
             this.button2.UseVisualStyleBackColor = true;
@@ -56,9 +56,9 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(132, 190);
+            this.button3.Location = new System.Drawing.Point(453, 492);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(91, 23);
+            this.button3.Size = new System.Drawing.Size(91, 41);
             this.button3.TabIndex = 2;
             this.button3.Text = "Blitz";
             this.button3.UseVisualStyleBackColor = true;
@@ -69,14 +69,13 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.ClientSize = new System.Drawing.Size(291, 270);
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.ClientSize = new System.Drawing.Size(639, 546);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
-            this.Text = "Tetris World";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = " Тетрис";
             this.ResumeLayout(false);
 
         }

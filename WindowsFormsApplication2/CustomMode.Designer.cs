@@ -163,7 +163,6 @@
             this.Controls.Add(this.label3);
             this.Name = "CustomMode";
             this.Text = "CustomMode";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.CustomMode_FormClosing);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.CustomMode_FormClosed);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
