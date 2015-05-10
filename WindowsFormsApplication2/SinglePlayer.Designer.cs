@@ -161,8 +161,9 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "SinglePlayer";
-            this.Text = "SinglePlayer";
+            this.Text = "Tetris - Single Player";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.SinglePlayer_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

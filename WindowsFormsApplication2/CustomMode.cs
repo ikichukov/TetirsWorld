@@ -19,6 +19,8 @@ namespace WindowsFormsApplication2
         public CustomMode()
         {
             InitializeComponent();
+            this.MinimizeBox = false;
+            this.MaximizeBox = false;
             animation = new CloudsAnimation(this.CreateGraphics(), Properties.Resources.clouds);
             this.DoubleBuffered = true;
             startGame();

@@ -18,6 +18,8 @@ namespace WindowsFormsApplication2
         public TwoPlayer()
         {
             InitializeComponent();
+            this.MinimizeBox = false;
+            this.MaximizeBox = false;
             this.DoubleBuffered = true;
             StartGame();
             animation = new CloudsAnimation(this.CreateGraphics(), Properties.Resources.cloudsBig);

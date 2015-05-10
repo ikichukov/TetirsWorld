@@ -283,8 +283,9 @@
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "TwoPlayer";
-            this.Text = "TwoPlayer";
+            this.Text = "Tetris - Two Players";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.TwoPlayer_FormClosed);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
