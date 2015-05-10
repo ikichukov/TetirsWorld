@@ -10,7 +10,7 @@ namespace WindowsFormsApplication2
     public class IPiece : Shape
     {
         public static int NUMBER_STATES = 2;
-        public IPiece(int width) : base(Color.Cyan, null)
+        public IPiece(int width) : base(Color.FromArgb(204, 0, 0), null)
         {
             int middle = (int)Math.Floor((width - 1) * 1.0 / 2);
             positions = new IndexKeeper[4];

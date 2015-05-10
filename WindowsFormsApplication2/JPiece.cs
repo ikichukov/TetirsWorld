@@ -10,7 +10,7 @@ namespace WindowsFormsApplication2
     public class JPiece : Shape
     {
         private static int NUMBER_STATES = 4;
-        public JPiece(int width) : base(Color.Blue, null)
+        public JPiece(int width) : base(Color.FromArgb(0, 48, 185), null)
         {
             int middle = (int)Math.Floor((width - 1) * 1.0 / 2);
             positions = new IndexKeeper[4];
@@ -72,6 +72,7 @@ namespace WindowsFormsApplication2
         override public void SetState()
         {
             state = (state + 1) % NUMBER_STATES;
-        }
+        }
+
     }
 }

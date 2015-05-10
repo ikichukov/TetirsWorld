@@ -11,7 +11,7 @@ namespace WindowsFormsApplication2
     {
         private static int NUMBER_STATES = 4;
 
-        public TPiece(int width) : base(Color.DarkMagenta, null)
+        public TPiece(int width) : base(Color.FromArgb(118, 44, 167), null)
         {
             int middle = (int)Math.Floor((width - 1) * 1.0 / 2);
             positions = new IndexKeeper[4];

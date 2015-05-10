@@ -162,6 +162,7 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "CustomMode";
             this.Text = "Tetris - Blitz";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.CustomMode_FormClosed);

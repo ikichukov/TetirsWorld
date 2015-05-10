@@ -11,7 +11,7 @@ namespace WindowsFormsApplication2
     {
         private static int NUMBER_STATES = 2;
 
-        public ZPiece(int width) : base(Color.Red, null)
+        public ZPiece(int width) : base(Color.FromArgb(136, 85, 26), null)
         {
             int middle = (int)Math.Floor((width - 1) * 1.0 / 2);
             positions = new IndexKeeper[4];
