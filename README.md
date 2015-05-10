@@ -41,10 +41,9 @@
 
 6.Blitz режим
 ![Блиц]
-
 (https://photos-3.dropbox.com/t/2/AACw98SsKdHDd87FzzM-De64Xy0qN7Yztdk43Bm3QEY4Fw/12/147054400/jpeg/1024x768/3/1431295200/0/2/6.jpg/CMC-j0YgASACIAMgBCAFKAE/zk7nh5GR4cklXgstIsys2-6mhgR35TKhDW_D1W8J724) 
 
 7.Blitz режим - крај на игра
-![Крај на игра]
 
+![Крај на игра]
 (https://photos-6.dropbox.com/t/2/AAClkiw2JpxUOJYtjHQPMQIh6Ai7Y8lmbxAu9XSyHlvccQ/12/147054400/jpeg/1024x768/3/1431295200/0/2/7.JPG/CMC-j0YgASACIAMgBCAFKAE/RHoEHzRVFIaqJvHb8dYdpDI_EiZTp8MENPevrE9dsdU) 
