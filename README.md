@@ -15,22 +15,29 @@
 На корисникот му сенудат три начини на играње, Single Player, Two Players, Blitz. На првиот режим игра само еден корисник. Со стрелите од тестатурата се придвижуваат форми, а со копчето за Space се спушта брзо формата. Во Two Players, играат два играчи каде контролите за вториот играч се W, S, A, D и Ј. Во третиот режим играчот игра на ограничено време. После крајот на секоја игра (кога ќе заврши времето, или нема простор за нови форми) се поставува прашање до корисникот даи да почне нова игра или да се врати на почетокот.
 
 1.Почетно мени
-![Почетен Екран](https://photos-4.dropbox.com/t/2/AABxMcCmkk8knNqwCA5GOXdvjbdJ3Rku9uVOBCnbD7ySmw/12/147054400/jpeg/1024x768/3/1431295200/0/2/1.JPG/CMC-j0YgASACIAMgBCAFKAE/KNfU0s3nLIeYR0ia4Kn2M8iQ62T4mPpK-lbXGC0BE1c) 
+![Почетен Екран]
+(https://photos-4.dropbox.com/t/2/AABxMcCmkk8knNqwCA5GOXdvjbdJ3Rku9uVOBCnbD7ySmw/12/147054400/jpeg/1024x768/3/1431295200/0/2/1.JPG/CMC-j0YgASACIAMgBCAFKAE/KNfU0s3nLIeYR0ia4Kn2M8iQ62T4mPpK-lbXGC0BE1c) 
 
 2.Еден играч
-![еден играч](https://photos-4.dropbox.com/t/2/AACaUzrC6aDHElTMvXz98TvlCewAOhsEoK06A8zotwYTiA/12/147054400/jpeg/1024x768/3/1431295200/0/2/2.jpg/CMC-j0YgASACIAMgBCAFKAE/eLXOCk8O2APMsx2n81Ot1RwPPTpNf_lqxorr5-aed7E) 
+![еден играч]
+(https://photos-4.dropbox.com/t/2/AACaUzrC6aDHElTMvXz98TvlCewAOhsEoK06A8zotwYTiA/12/147054400/jpeg/1024x768/3/1431295200/0/2/2.jpg/CMC-j0YgASACIAMgBCAFKAE/eLXOCk8O2APMsx2n81Ot1RwPPTpNf_lqxorr5-aed7E) 
 
 3.Еден играч - крај на игра
-![Карај на игра](https://photos-5.dropbox.com/t/2/AABGDkO7iV7rcy1YG5GIBkP4D1MXFmO-XG2uY9jQ6-Wtpw/12/147054400/jpeg/1024x768/3/1431295200/0/2/3.JPG/CMC-j0YgASACIAMgBCAFKAE/UWAM7OU-Is4u2FjWQp0RmRzyMGn5bZY6gXvthzU_Y2k) 
+![Карај на игра]
+(https://photos-5.dropbox.com/t/2/AABGDkO7iV7rcy1YG5GIBkP4D1MXFmO-XG2uY9jQ6-Wtpw/12/147054400/jpeg/1024x768/3/1431295200/0/2/3.JPG/CMC-j0YgASACIAMgBCAFKAE/UWAM7OU-Is4u2FjWQp0RmRzyMGn5bZY6gXvthzU_Y2k) 
 
 4.Два играчи
-![Даа играчи](https://photos-3.dropbox.com/t/2/AADBwFL90ZY6HTbjQ2uCLguOZ504q4fLDsXUhx-cJwRhaA/12/147054400/jpeg/1024x768/3/1431295200/0/2/4.jpg/CMC-j0YgASACIAMgBCAFKAE/jQ8OqN17BuFfljmOmyczGzhgG8zP7ae3XWSmvtr3e-M) 
+![Даа играчи]
+(https://photos-3.dropbox.com/t/2/AADBwFL90ZY6HTbjQ2uCLguOZ504q4fLDsXUhx-cJwRhaA/12/147054400/jpeg/1024x768/3/1431295200/0/2/4.jpg/CMC-j0YgASACIAMgBCAFKAE/jQ8OqN17BuFfljmOmyczGzhgG8zP7ae3XWSmvtr3e-M) 
 
 5.Два играча - крај на игра
-![Два играчи - крај на игра](https://photos-3.dropbox.com/t/2/AACcXizSLShdhKXTViYkIoYQEt7rjEAL0vMUEkHl8lvrlw/12/147054400/jpeg/1024x768/3/1431295200/0/2/5.JPG/CMC-j0YgASACIAMgBCAFKAE/dc6kIHJMDV3XCzGaluXGKQlxFtZkS3-Lq3fMpo68GrE) 
+![Два играчи - крај на игра]
+(https://photos-3.dropbox.com/t/2/AACcXizSLShdhKXTViYkIoYQEt7rjEAL0vMUEkHl8lvrlw/12/147054400/jpeg/1024x768/3/1431295200/0/2/5.JPG/CMC-j0YgASACIAMgBCAFKAE/dc6kIHJMDV3XCzGaluXGKQlxFtZkS3-Lq3fMpo68GrE) 
 
 6.Blitz режим
-![Блиц](https://photos-3.dropbox.com/t/2/AACw98SsKdHDd87FzzM-De64Xy0qN7Yztdk43Bm3QEY4Fw/12/147054400/jpeg/1024x768/3/1431295200/0/2/6.jpg/CMC-j0YgASACIAMgBCAFKAE/zk7nh5GR4cklXgstIsys2-6mhgR35TKhDW_D1W8J724) 
+![Блиц]
+(https://photos-3.dropbox.com/t/2/AACw98SsKdHDd87FzzM-De64Xy0qN7Yztdk43Bm3QEY4Fw/12/147054400/jpeg/1024x768/3/1431295200/0/2/6.jpg/CMC-j0YgASACIAMgBCAFKAE/zk7nh5GR4cklXgstIsys2-6mhgR35TKhDW_D1W8J724) 
 
 7.Blitz режим - крај на игра
-![Крај на игра](https://photos-6.dropbox.com/t/2/AAClkiw2JpxUOJYtjHQPMQIh6Ai7Y8lmbxAu9XSyHlvccQ/12/147054400/jpeg/1024x768/3/1431295200/0/2/7.JPG/CMC-j0YgASACIAMgBCAFKAE/RHoEHzRVFIaqJvHb8dYdpDI_EiZTp8MENPevrE9dsdU) 
+![Крај на игра]
+(https://photos-6.dropbox.com/t/2/AAClkiw2JpxUOJYtjHQPMQIh6Ai7Y8lmbxAu9XSyHlvccQ/12/147054400/jpeg/1024x768/3/1431295200/0/2/7.JPG/CMC-j0YgASACIAMgBCAFKAE/RHoEHzRVFIaqJvHb8dYdpDI_EiZTp8MENPevrE9dsdU) 
