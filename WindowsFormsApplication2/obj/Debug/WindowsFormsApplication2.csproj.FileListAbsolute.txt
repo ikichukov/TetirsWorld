@@ -37,3 +37,6 @@ C:\Users\User\Dropbox\Тетрис\WindowsFormsApplication2\obj\Debug\WindowsFor
 C:\Users\User\Dropbox\Тетрис\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SinglePlayer.resources
 C:\Users\User\Dropbox\Тетрис\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TwoPlayer.resources
 C:\Users\User\Dropbox\Тетрис\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CustomMode.resources
+C:\Users\User\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\User\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\User\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
