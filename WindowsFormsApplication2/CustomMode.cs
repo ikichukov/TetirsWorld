@@ -63,7 +63,7 @@ namespace WindowsFormsApplication2
             (labels[1] = labelLines).Text = "0";
             (labels[2] = labelPoints).Text = "0000";
             game = new Game(pictureBox1, pictureBox2, labels);
-            game.timer1.Interval = 100;
+            game.timer1.Interval = 500;
             timer1.Start();
             game.level = 13;
             seconds = 60;

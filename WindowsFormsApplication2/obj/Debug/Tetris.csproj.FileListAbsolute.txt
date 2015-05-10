@@ -1,3 +1,15 @@
 C:\Users\User\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
 C:\Users\User\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 C:\Users\User\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CustomMode.resources
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SinglePlayer.resources
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.TwoPlayer.resources
+C:\Users\Charlie\Documents\GitHub\TetirsWorld\WindowsFormsApplication2\obj\Debug\Tetris.csproj.GenerateResource.Cache
