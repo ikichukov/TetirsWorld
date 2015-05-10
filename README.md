@@ -34,7 +34,7 @@
 ![Даа играчи]
 (https://photos-3.dropbox.com/t/2/AADBwFL90ZY6HTbjQ2uCLguOZ504q4fLDsXUhx-cJwRhaA/12/147054400/jpeg/1024x768/3/1431295200/0/2/4.jpg/CMC-j0YgASACIAMgBCAFKAE/jQ8OqN17BuFfljmOmyczGzhgG8zP7ae3XWSmvtr3e-M) 
 
-5.Два играча - крај на игра
+5.Два играчи - крај на игра
 
 ![Два играчи - крај на игра]
 (https://photos-3.dropbox.com/t/2/AACcXizSLShdhKXTViYkIoYQEt7rjEAL0vMUEkHl8lvrlw/12/147054400/jpeg/1024x768/3/1431295200/0/2/5.JPG/CMC-j0YgASACIAMgBCAFKAE/dc6kIHJMDV3XCzGaluXGKQlxFtZkS3-Lq3fMpo68GrE) 
