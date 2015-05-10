@@ -48,10 +48,10 @@
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(181)))), ((int)(((byte)(215)))), ((int)(((byte)(240)))));
-            this.label2.Font = new System.Drawing.Font("SkolaSans Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(424, 64);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(65, 19);
+            this.label2.Size = new System.Drawing.Size(70, 20);
             this.label2.TabIndex = 25;
             this.label2.Text = "ВРЕМЕ";
             // 
@@ -59,10 +59,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(181)))), ((int)(((byte)(215)))), ((int)(((byte)(240)))));
-            this.label1.Font = new System.Drawing.Font("SkolaSans Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(52, 60);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(80, 19);
+            this.label1.Size = new System.Drawing.Size(85, 20);
             this.label1.TabIndex = 24;
             this.label1.Text = "СЛЕДНО";
             // 
@@ -80,10 +80,10 @@
             // 
             this.labelPoints.AutoSize = true;
             this.labelPoints.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(181)))), ((int)(((byte)(215)))), ((int)(((byte)(240)))));
-            this.labelPoints.Font = new System.Drawing.Font("SkolaSans Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelPoints.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelPoints.Location = new System.Drawing.Point(424, 177);
             this.labelPoints.Name = "labelPoints";
-            this.labelPoints.Size = new System.Drawing.Size(53, 19);
+            this.labelPoints.Size = new System.Drawing.Size(49, 20);
             this.labelPoints.TabIndex = 22;
             this.labelPoints.Text = "0000";
             // 
@@ -91,10 +91,10 @@
             // 
             this.labelLines.AutoSize = true;
             this.labelLines.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(181)))), ((int)(((byte)(215)))), ((int)(((byte)(240)))));
-            this.labelLines.Font = new System.Drawing.Font("SkolaSans Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelLines.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelLines.Location = new System.Drawing.Point(424, 131);
             this.labelLines.Name = "labelLines";
-            this.labelLines.Size = new System.Drawing.Size(20, 19);
+            this.labelLines.Size = new System.Drawing.Size(19, 20);
             this.labelLines.TabIndex = 21;
             this.labelLines.Text = "0";
             // 
@@ -102,10 +102,10 @@
             // 
             this.labelTime.AutoSize = true;
             this.labelTime.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(181)))), ((int)(((byte)(215)))), ((int)(((byte)(240)))));
-            this.labelTime.Font = new System.Drawing.Font("SkolaSans Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.labelTime.Location = new System.Drawing.Point(424, 83);
             this.labelTime.Name = "labelTime";
-            this.labelTime.Size = new System.Drawing.Size(58, 19);
+            this.labelTime.Size = new System.Drawing.Size(54, 20);
             this.labelTime.TabIndex = 20;
             this.labelTime.Text = "01:00";
             // 
@@ -128,10 +128,10 @@
             // 
             this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(181)))), ((int)(((byte)(215)))), ((int)(((byte)(240)))));
-            this.label4.Font = new System.Drawing.Font("SkolaSans Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(424, 158);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(71, 19);
+            this.label4.Size = new System.Drawing.Size(72, 20);
             this.label4.TabIndex = 27;
             this.label4.Text = "ПОЕНИ";
             // 
@@ -139,10 +139,10 @@
             // 
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(181)))), ((int)(((byte)(215)))), ((int)(((byte)(240)))));
-            this.label3.Font = new System.Drawing.Font("SkolaSans Black", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(424, 112);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(79, 19);
+            this.label3.Size = new System.Drawing.Size(82, 20);
             this.label3.TabIndex = 26;
             this.label3.Text = "РЕДОВИ";
             // 
@@ -163,6 +163,7 @@
             this.Controls.Add(this.label3);
             this.Name = "CustomMode";
             this.Text = "CustomMode";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.CustomMode_FormClosing);
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.CustomMode_FormClosed);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
