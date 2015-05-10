@@ -410,28 +410,25 @@ namespace WindowsFormsApplication2
                     timer1.Enabled = false;
                     currentShape = null;
                     toggleTicks = 0;
-                    timer2.Start(); //= true;
+                    timer2.Start();
                     return;
                 }
                 AddPiece();
                 if (!CanGoDown(currentShape))
                 {
                     timer1.Stop();
-                    //MessageBox.Show("kraj");
                     started = false;
-                    //MessageBox.Show("Крај!");
-                    //button1.Enabled = true;
                 }
             }
         }
 
         private void timer2_Tick(object sender, EventArgs e)
         {
-            //MessageBox.Show("Here");
+         
             ++toggleTicks;
             if (toggleTicks == 7)
             {
-                timer2.Stop(); //Enabled = false;
+                timer2.Stop();
                 DeleteRows();
                 timer1.Enabled = true;
             }
@@ -455,8 +452,7 @@ namespace WindowsFormsApplication2
             {
                 if (IsRowFull(i)) RowsToDelete.Add(i);
             }
-            //if (RowsToDelete.Count != 0) DeleteRows();
-            //timer1.Enabled = true;
+            
         }
 
         //наеднаш ја спушта формата
@@ -485,19 +481,15 @@ namespace WindowsFormsApplication2
                 level = (int)deletedRows / 10;
                 level++;
                 labels[0].Text = level.ToString();
+                if (timer1.Interval > 100) timer1.Interval = INITIAL_SPEED - ((level - 1) * 30);
             }
-            if (timer1.Interval > 100) timer1.Interval = INITIAL_SPEED - ((level-1) * 30);
+            
             //смени ги поените
             points += (factor * level);
             labels[2].Text = string.Format("{0:0000}", points);
         }
 
-        //ја завршува играта
-        //public void EndGame()
-        //{
-            //MessageBox.Show("That's all folks");
-            //started = false;
-        //}
+        //најизменично ја менува бојата на полните редови
         public void ToggleRowsColor()
         {
             Brush brush = new SolidBrush(Color.White);
