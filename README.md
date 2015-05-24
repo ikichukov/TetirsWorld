@@ -17,34 +17,34 @@
 1.Почетно мени
 
 ![Почетен Екран]
-(https://photos-4.dropbox.com/t/2/AABxMcCmkk8knNqwCA5GOXdvjbdJ3Rku9uVOBCnbD7ySmw/12/147054400/jpeg/1024x768/3/1431295200/0/2/1.JPG/CMC-j0YgASACIAMgBCAFKAE/KNfU0s3nLIeYR0ia4Kn2M8iQ62T4mPpK-lbXGC0BE1c) 
+(http://oi61.tinypic.com/2yxgn54.jpg) 
 
 2.Еден играч
 
 ![еден играч]
-(https://photos-4.dropbox.com/t/2/AACaUzrC6aDHElTMvXz98TvlCewAOhsEoK06A8zotwYTiA/12/147054400/jpeg/1024x768/3/1431295200/0/2/2.jpg/CMC-j0YgASACIAMgBCAFKAE/eLXOCk8O2APMsx2n81Ot1RwPPTpNf_lqxorr5-aed7E) 
+(http://oi57.tinypic.com/28b4d8i.jpg) 
 
 3.Еден играч - крај на игра
 
 ![Крај на игра]
-(https://photos-5.dropbox.com/t/2/AABGDkO7iV7rcy1YG5GIBkP4D1MXFmO-XG2uY9jQ6-Wtpw/12/147054400/jpeg/1024x768/3/1431295200/0/2/3.JPG/CMC-j0YgASACIAMgBCAFKAE/UWAM7OU-Is4u2FjWQp0RmRzyMGn5bZY6gXvthzU_Y2k) 
+(http://oi60.tinypic.com/2n9c0p3.jpg) 
 
 4.Два играчи
 
 ![Даа играчи]
-(https://photos-3.dropbox.com/t/2/AADBwFL90ZY6HTbjQ2uCLguOZ504q4fLDsXUhx-cJwRhaA/12/147054400/jpeg/1024x768/3/1431295200/0/2/4.jpg/CMC-j0YgASACIAMgBCAFKAE/jQ8OqN17BuFfljmOmyczGzhgG8zP7ae3XWSmvtr3e-M) 
+(http://oi60.tinypic.com/vpub88.jpg) 
 
 5.Два играчи - крај на игра
 
 ![Два играчи - крај на игра]
-(https://photos-3.dropbox.com/t/2/AACcXizSLShdhKXTViYkIoYQEt7rjEAL0vMUEkHl8lvrlw/12/147054400/jpeg/1024x768/3/1431295200/0/2/5.JPG/CMC-j0YgASACIAMgBCAFKAE/dc6kIHJMDV3XCzGaluXGKQlxFtZkS3-Lq3fMpo68GrE) 
+(http://oi62.tinypic.com/2psmy2p.jpg) 
 
 6.Blitz режим
 
 ![Блиц]
-(https://photos-3.dropbox.com/t/2/AACw98SsKdHDd87FzzM-De64Xy0qN7Yztdk43Bm3QEY4Fw/12/147054400/jpeg/1024x768/3/1431295200/0/2/6.jpg/CMC-j0YgASACIAMgBCAFKAE/zk7nh5GR4cklXgstIsys2-6mhgR35TKhDW_D1W8J724) 
+(http://oi62.tinypic.com/2viibn8.jpg) 
 
 7.Blitz режим - крај на игра
 
 ![Крај на игра]
-(https://photos-6.dropbox.com/t/2/AAClkiw2JpxUOJYtjHQPMQIh6Ai7Y8lmbxAu9XSyHlvccQ/12/147054400/jpeg/1024x768/3/1431295200/0/2/7.JPG/CMC-j0YgASACIAMgBCAFKAE/RHoEHzRVFIaqJvHb8dYdpDI_EiZTp8MENPevrE9dsdU) 
+(http://oi59.tinypic.com/opd5q1.jpg) 
